@@ -1,5 +1,5 @@
 {
-  "name": "xitro/fpdf_merge",
+  "name": "jbdemonte/fpdf_merge",
   "version": "1.0",
   "description": "Tool to merge PDFs created by fpdf 1.6",
   "type": "library",
