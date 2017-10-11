@@ -1,0 +1,20 @@
+{
+  "name": "xitro/fpdf_merge",
+  "version": "1.0",
+  "description": "Tool to merge PDFs created by fpdf 1.6",
+  "type": "library",
+  "keywords": ["pdf", "fpdf", "merge"],
+  "license": "GNU Lesser General Public License v3.0",
+  "authors": [
+    {
+      "name": "DEMONTE Jean-Baptiste",
+      "email": "jbdemonte@gmail.com",
+      "homepage": "http://jb.demonte.fr"
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      "FPDF_Merge.php"
+    ]
+  }
+}
